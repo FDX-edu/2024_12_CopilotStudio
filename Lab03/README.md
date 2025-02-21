@@ -1,4 +1,4 @@
-# : Knowledge sources, AI knowledge, and custom instructions
+# Knowledge sources, AI knowledge, and custom instructions
 
 ## 이 랩의 목표
 이 랩을 마치면 다음을 수행할 수 있습니다.
