@@ -22,3 +22,16 @@
 - 인터넷 접속이 가능한 컴퓨터.
 - 제공된 Microsoft 테넌트(일부 회사는 사용자가 회사 테넌트에만 연결하도록 강제) 또는 Copilot Studio 사용자 라이선스(또는 평가판)를 사용하여 자체 엔터프라이즈 테넌트에 로그인할 수 있어야 합니다.
 - Generative AI는 "클래식"으로 설정해야 합니다(설정 - Generative AI)
+
+
+## 실습내용
+
+- Lab01. Create your first agent in Microsoft Copilot Studio (클래식)
+- Lab02. Authoring 101 (클래식)
+- Lab03. Knowledge sources, AI knowledge, and custom instructions (클래식)
+- Lab04. Build and call Power Automate cloud flows (클래식, PA, ServiceNow)
+- Lab05. Invoke AI Builder prompts (클래식, ServiceNow)
+- Lab06. Make HTTP requests to connect to an API (클래식)
+- Lab07. Use generative orchestration to interact with your connectors (생성형, MSN Weather )
+- Lab08. Using Topic Inputs (생성형)
+- Lab09. Generative orchestration (생성형)
